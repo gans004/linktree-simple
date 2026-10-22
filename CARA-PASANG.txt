@@ -1,0 +1,26 @@
+VERSI SIMPEL — LOOTERGAME
+
+Tidak perlu membuat repository baru atau mengatur Pages lagi.
+
+1. Ekstrak ZIP ini.
+2. Buka repository gans004/link-pelanggan-bru.
+3. Add file > Upload files.
+4. Upload index.html dan linktree.html dari ZIP ini ke tempat file lama.
+5. Commit changes, lalu tunggu proses Pages selesai.
+6. Buka https://gans004.github.io/link-pelanggan-bru/
+   Jika masih tampilan lama, refresh dengan Ctrl+Shift+R.
+
+index.html sudah berisi tampilan dan isi lengkap dalam satu file.
+style.css, script.js, dan config.js versi sebelumnya tidak dipakai oleh halaman baru.
+File lama tersebut boleh dibiarkan agar pemasangan lebih mudah.
+
+linktree.html menggantikan halaman lama dan mengarahkan pengunjung ke beranda.
+Akses PES sudah dihapus dari halaman utama maupun linktree.html pengganti.
+Slot PES di panel admin belum dibuat; itu dikerjakan terpisah nanti.
+
+Tema: hijau tua, putih, hijau muda sesuai panel admin.
+Susunan: tutorial, perlengkapan, grup WA, admin Laptop/PC, admin HP, ketentuan bantuan.
+Nomor admin dan link memakai data yang diberikan pada web lama; keaktifannya belum diverifikasi.
+Halaman ini hanya panduan; akses game tetap diberikan melalui panel admin.
+
+Untuk mengubah nomor/link/tulisan nanti, edit index.html.
